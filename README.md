@@ -1,8 +1,11 @@
 ### Hi there, I'm Dery Wahyu Perdana! 👋  
 
+![Programmer at Work](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)  
+
 Welcome to my GitHub profile! 🚀  
 I'm a passionate **Mathematics & Programming Enthusiast** 📊💻  
 Currently, I'm an active member of **HIMATIKA Universitas Teknologi Yogyakarta** 🎓  
+
 
 ---
 
