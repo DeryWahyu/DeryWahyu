@@ -1,8 +1,9 @@
 ### Hi there, I'm Dery Wahyu Perdana! 👋  
 
 <p align="center">
-  <img src="https://github.com/derywahyu/derywahyu/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF00&background=000000&width=500&lines=Welcome+to+my+GitHub!;I+am+a+Tech+Enthusiast;Coding+%7C+Mathematics+%7C+Web+Dev;Always+Learning+%26+Exploring..." alt="Typing SVG" />
 </p>
+
 
 Welcome to my GitHub profile! 🚀  
 I'm a passionate **Mathematics & Programming Enthusiast** 📊💻  
