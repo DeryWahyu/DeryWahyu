@@ -1,7 +1,7 @@
 ### Hi there, I'm Dery Wahyu Perdana! 👋  
 
 <p align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="600" height="300" alt="Tech Animation" />
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Matrix Code Animation" />
 </p>
 
 Welcome to my GitHub profile! 🚀  
