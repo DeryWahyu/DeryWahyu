@@ -1,16 +1,37 @@
-## Hi there 👋
+### Hi there, I'm Dery Wahyu Perdana! 👋  
 
-<!--
-**DeryWahyu/DeryWahyu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! 🚀  
+I'm a passionate **Mathematics & Programming Enthusiast** 📊💻  
+Currently, I'm an active member of **HIMATIKA Universitas Teknologi Yogyakarta** 🎓  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Languages and Tools:
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" width="40" height="40"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" height="40"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="40" height="40"/>  
+</p>
+
+---
+
+### 📊 GitHub Stats:
+![Dery's GitHub stats](https://github-readme-stats.vercel.app/api?username=derywahyu&show_icons=true&theme=radical)
+
+---
+
+### 🌱 Currently Learning:
+- Laravel & PHP for Web Development 🌐  
+- TailwindCSS & Bootstrap 🎨  
+
+### 📫 Let's Connect:
+- 📧 Email: your.email@example.com  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/yourprofile)  
+- 🐦 [Twitter](https://twitter.com/yourprofile)  
+
+⭐ **Don't forget to star my repositories if you find them useful!** ⭐
