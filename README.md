@@ -1,12 +1,8 @@
-<p align="center">
-    <h2>Hi there, I'm Dery Wahyu Perdana! 👋</h2>
-</p>
+### Hi there, I'm Dery Wahyu Perdana! 👋  
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Matrix Code Animation" />
 </p>
-
-Welcome to my GitHub profile! 🚀  
 
 ---
 
@@ -19,7 +15,6 @@ Welcome to my GitHub profile! 🚀
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" height="40"/>  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="40" height="40"/>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40" height="40"/>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
 </p>
@@ -29,4 +24,13 @@ Welcome to my GitHub profile! 🚀
 ### 🔥 Most Used Languages:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=derywahyu&layout=compact&theme=radical" alt="Most Used Languages" />
+</p>
+
+---
+
+### 📫 Connect with me:
+<p align="left">
+    <a href="mailto:your-email@example.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40" height="40"/></a>
+    <a href="https://www.instagram.com/yourusername"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" width="40" height="40"/></a>
+    <a href="https://www.linkedin.com/in/yourusername"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40"/></a>
 </p>
