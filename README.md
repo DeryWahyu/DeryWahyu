@@ -1,10 +1,13 @@
 ### Hi there, I'm Dery Wahyu Perdana! 👋  
 
-![Programmer at Work](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)  
+<p align="center">
+  <img src="https://github.com/derywahyu/derywahyu/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
 
 Welcome to my GitHub profile! 🚀  
 I'm a passionate **Mathematics & Programming Enthusiast** 📊💻  
 Currently, I'm an active member of **HIMATIKA Universitas Teknologi Yogyakarta** 🎓  
+  
 
 
 ---
