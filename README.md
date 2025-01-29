@@ -26,14 +26,3 @@ I am a student at **University of Technology Yogyakarta** 🎓
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=derywahyu&layout=compact&theme=radical" alt="Most Used Languages" />
 </p>
-
----
-
-### 📫 Let's Connect:
-<p align="left">
-    <a href="mailto:derywahyuperdana185@gmail.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40" height="40"/></a>
-    <a href="https://www.linkedin.com/in/derywahyuperdana"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40"/></a>
-    <a href="https://instagram.com/derywhy_"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" width="40" height="40"/></a>
-</p>
-
-⭐ **Don't forget to star my repositories if you find them useful!** ⭐
