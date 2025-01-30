@@ -1,3 +1,9 @@
+<h1 align="center">
+  <a href="#">
+    <img src="https://readme-typing-svg.herokuapp.com?size=30&center=true&vCenter=true&width=500&lines=Dery+Wahyu+Perdana;Mathematics+Student;Tech+Enthusiast;Open+Source+Contributor" />
+  </a>
+</h1>
+
 ### Hi there, I'm Dery Wahyu Perdana! 👋  
 
 <p align="center">
