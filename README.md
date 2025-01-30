@@ -1,14 +1,11 @@
-<h1 align="center">
-  <a href="#">
-    <img src="https://readme-typing-svg.herokuapp.com?size=30&center=true&vCenter=true&width=500&lines=Dery+Wahyu+Perdana;Mathematics+Student;Tech+Enthusiast;Open+Source+Contributor" />
-  </a>
-</h1>
-
 ### Hi there, I'm Dery Wahyu Perdana! 👋  
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Matrix Code Animation" />
 </p>
+
+Welcome to my GitHub profile! 🚀  
+Student at **University of Technology Yogyakarta** 🎓
 
 ---
 
