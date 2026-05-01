@@ -45,8 +45,12 @@
 ## 📊 GitHub Stats & Top Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=derywahyu&show_icons=true&theme=radical&hide_border=true" alt="Dery Wahyu GitHub Stats" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=derywahyu&layout=compact&theme=radical&hide_border=true" alt="Dery Wahyu Most Used Languages" height="160"/>
+  <a href="https://github.com/derywahyu">
+    <img src="https://github-readme-stats.vercel.app/api?username=derywahyu&show_icons=true&theme=radical&hide_border=true" alt="Dery Wahyu GitHub Stats" />
+  </a>
+  <a href="https://github.com/derywahyu">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=derywahyu&layout=compact&theme=radical&hide_border=true" alt="Dery Wahyu Most Used Languages" />
+  </a>
 </p>
 
 ---
