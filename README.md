@@ -1,30 +1,26 @@
 <h1 align="center">Hi there, I'm Dery Wahyu Perdana 👋</h1>
 
 <h3 align="center">
-  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/assets/glyphs/diploma.png" width="16" /> Informatics Student at University of Technology Yogyakarta | <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/assets/glyphs/mobile-coding.png" width="16" /> Web & Mobile Developer
+  🎓 Informatics Student at University of Technology Yogyakarta | 💻 Web & Mobile Developer
 </h3>
 
 <p align="center">
-  <img src="https://github-readme-contribution-graph-snake.vercel.app/api?username=derywahyu&theme=github-dark-orange&hide_border=true&title_color=3b82f6" alt="Dery's Contribution Snake" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;Full-Stack+Web+and+Mobile+Development;Always+Learning+New+Things" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;Full-Stack+Web+and+Mobile+Development;Always+Learning+New+Things" alt="Typing SVG" />
 </p>
 
 ---
 
-## <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/assets/glyphs/rocket.png" width="22" /> About Me
+## 🚀 About Me
 
-- <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/assets/glyphs/medal.png" width="16" /> Informatics Student at **University of Technology Yogyakarta**
-- <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/assets/glyphs/monitor.png" width="16" /> Focusing on **Full-Stack Web & Mobile Development**
-- <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/assets/glyphs/bud.png" width="16" /> Currently building projects with **Laravel, Go, and Flutter**
-- <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/assets/glyphs/toolbox.png" width="16" /> Working with **HTML, CSS, JavaScript, PHP, Python, Tailwind CSS**
-- <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/assets/glyphs/mail.png" width="16" /> Reach me at: **[derywahyuperdana185@gmail.com](mailto:derywahyuperdana185@gmail.com)**
+- 🎓 Informatics Student at **University of Technology Yogyakarta**
+- 💻 Focusing on **Full-Stack Web & Mobile Development**
+- 🌱 Currently building projects with **Laravel, Go, and Flutter**
+- 🛠️ Working with **HTML, CSS, JavaScript, PHP, Python, Tailwind CSS**
+- 📫 Reach me at: **[derywahyuperdana185@gmail.com](mailto:derywahyuperdana185@gmail.com)**
 
 ---
 
-## <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/assets/glyphs/toolbox.png" width="22" /> Languages and Tools
+## 🛠️ Languages and Tools
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
@@ -46,21 +42,21 @@
 
 ---
 
-## <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/assets/glyphs/graph.png" width="22" /> GitHub Stats & Top Languages
+## 📊 GitHub Stats & Top Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=derywahyu&show_icons=true&theme=transparent&hide_border=true&title_color=3b82f6&icon_color=3b82f6&text_color=a3a3a3&border_radius=10&glowing=true" alt="Dery Wahyu GitHub Stats" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=derywahyu&layout=compact&theme=transparent&hide_border=true&title_color=3b82f6&text_color=a3a3a3&border_radius=10" alt="Dery Wahyu Most Used Languages" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=derywahyu&show_icons=true&theme=radical&hide_border=true" alt="Dery Wahyu GitHub Stats" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=derywahyu&layout=compact&theme=radical&hide_border=true" alt="Dery Wahyu Most Used Languages" height="160"/>
 </p>
 
 ---
 
-## <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/assets/glyphs/mail.png" width="22" /> Connect with Me
+## 📫 Connect with Me
 
 <p align="center">
-  <a href="mailto:derywahyuperdana185@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://www.linkedin.com/in/derywahyuperdana"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://www.instagram.com/derywhy_"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="mailto:derywahyuperdana185@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/derywahyuperdana"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.instagram.com/derywhy_"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
 </p>
 
 ---
