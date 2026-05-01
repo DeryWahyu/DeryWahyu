@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Dery Wahyu Perdana 👋</h1>
 
 <h3 align="center">
-  🎓 Informatics Student at University of Technology Yogyakarta | 💻 Web & Mobile Developer
+   Informatics Student at University of Technology Yogyakarta | Web & Mobile Developer
 </h3>
 
 <p align="center">
@@ -10,17 +10,17 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
-- 🎓 Informatics Student at **University of Technology Yogyakarta**
-- 💻 Focusing on **Full-Stack Web & Mobile Development**
-- 🌱 Currently building projects with **Laravel, Go, and Flutter**
-- 🛠️ Working with **HTML, CSS, JavaScript, PHP, Python, Tailwind CSS**
-- 📫 Reach me at: **[derywahyuperdana185@gmail.com](mailto:derywahyuperdana185@gmail.com)**
+-  Informatics Student at **University of Technology Yogyakarta**
+-  Focusing on **Full-Stack Web & Mobile Development**
+-  Currently building projects with **Laravel, Go, and Flutter**
+-  Working with **HTML, CSS, JavaScript, PHP, Python, Tailwind CSS, Dart**
+-  Reach me at: **[derywahyuperdana185@gmail.com](mailto:derywahyuperdana185@gmail.com)**
 
 ---
 
-## 🛠️ Languages and Tools
+##  Languages and Tools
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
@@ -40,22 +40,8 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
 </p>
 
----
 
-## 📊 GitHub Stats & Top Languages
-
-<p align="center">
-  <a href="https://github.com/derywahyu">
-    <img src="https://github-readme-stats.vercel.app/api?username=derywahyu&show_icons=true&theme=radical&hide_border=true" alt="Dery Wahyu GitHub Stats" />
-  </a>
-  <a href="https://github.com/derywahyu">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=derywahyu&layout=compact&theme=radical&hide_border=true" alt="Dery Wahyu Most Used Languages" />
-  </a>
-</p>
-
----
-
-## 📫 Connect with Me
+##  Connect with Me
 
 <p align="center">
   <a href="mailto:derywahyuperdana185@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
@@ -66,5 +52,5 @@
 ---
 
 <p align="center">
-  <i>Thanks for visiting my GitHub profile! 🚀</i>
+  <i>Thanks for visiting my GitHub profile!</i>
 </p>
