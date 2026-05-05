@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Dery Wahyu Perdana 👋</h1>
+<h1 align="center">Hi there, I'm Dery Wahyu Perdana</h1>
 <p align="center"> <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Matrix Code Animation" /> </p>
 <h3 align="center">
    Informatics Student at University of Technology Yogyakarta | Web & Mobile Developer
