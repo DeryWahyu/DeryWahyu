@@ -14,7 +14,7 @@
 
 -  Informatics Student at **University of Technology Yogyakarta**
 -  Focusing on **Full-Stack Web & Mobile Development**
--  Currently building projects with **Laravel, Go, and Flutter**
+-  Currently building projects with **Laravel and Flutter**
 -  Working with **HTML, CSS, JavaScript, PHP, Python, Tailwind CSS, Dart**
 -  Reach me at: **[derywahyuperdana185@gmail.com](mailto:derywahyuperdana185@gmail.com)**
 
