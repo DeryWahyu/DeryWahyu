@@ -1,0 +1,57 @@
+name: Update Last Updated Timestamp
+
+on:
+  schedule:
+    # Berjalan setiap 3 jam
+    - cron: '0 */3 * * *'
+  workflow_dispatch: # Memungkinkan trigger manual dari tab Actions di GitHub
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: Update Timestamp in README
+        run: |
+          python3 -c "
+          import re
+          from datetime import datetime, timezone, timedelta
+
+          wib_tz = timezone(timedelta(hours=7))
+          timestamp = datetime.now(wib_tz).strftime('%d %B %Y, %H:%M WIB')
+
+          with open('README.md', 'r', encoding='utf-8') as f:
+              content = f.read()
+
+          pattern = r'(<!-- LAST_UPDATED -->)(.*?)(<!-- /LAST_UPDATED -->)'
+          if re.search(pattern, content):
+              new_content = re.sub(pattern, rf'\g<1>{timestamp}\g<3>', content)
+              with open('README.md', 'w', encoding='utf-8') as f:
+                  f.write(new_content)
+              print(f'Successfully updated timestamp to: {timestamp}')
+          else:
+              print('Warning: LAST_UPDATED marker not found in README.md')
+          "
+
+      - name: Commit and Push Changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          if git diff --staged --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "chore: update last updated timestamp [skip ci]"
+            git push
+          fi
