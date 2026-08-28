@@ -2,8 +2,9 @@ name: Update Last Updated Timestamp
 
 on:
   schedule:
-    # Berjalan setiap 3 jam
-    - cron: '0 */3 * * *'
+    # Menjalankan workflow pada menit acak (menit 23) setiap 2 jam.
+    # Menghindari menit :00 karena memiliki antrean terpadat di GitHub Actions yang sering menyebabkan task di-skip/tertunda.
+    - cron: '23 */2 * * *'
   workflow_dispatch: # Memungkinkan trigger manual dari tab Actions di GitHub
 
 permissions:
@@ -53,5 +54,6 @@ jobs:
             echo "No changes to commit."
           else
             git commit -m "chore: update last updated timestamp [skip ci]"
+            git pull --rebase origin main
             git push
           fi
