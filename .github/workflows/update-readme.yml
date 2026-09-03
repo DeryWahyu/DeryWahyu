@@ -2,9 +2,9 @@ name: Update Last Updated Timestamp
 
 on:
   schedule:
-    # Menjalankan workflow pada menit acak (menit 23) setiap 2 jam.
+    # Menjalankan workflow pada menit acak (menit 23) setiap 3 jam.
     # Menghindari menit :00 karena memiliki antrean terpadat di GitHub Actions yang sering menyebabkan task di-skip/tertunda.
-    - cron: '23 */2 * * *'
+    - cron: '23 */3 * * *'
   workflow_dispatch: # Memungkinkan trigger manual dari tab Actions di GitHub
 
 permissions:
@@ -47,8 +47,8 @@ jobs:
 
       - name: Commit and Push Changes
         run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git config --global user.name "Dery Wahyu Perdana"
+          git config --global user.email "dery.5230411153@student.uty.ac.id"
           git add README.md
           if git diff --staged --quiet; then
             echo "No changes to commit."
