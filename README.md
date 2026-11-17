@@ -56,5 +56,5 @@
 </p>
 
 <p align="center">
-  <sub>⏰ Last updated at: <!-- LAST_UPDATED -->17 November 2026, 02:41 WIB<!-- /LAST_UPDATED --></sub>
+  <sub>⏰ Last updated at: <!-- LAST_UPDATED -->17 November 2026, 10:58 WIB<!-- /LAST_UPDATED --></sub>
 </p>
